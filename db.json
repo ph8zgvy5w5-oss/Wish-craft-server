@@ -21,13 +21,12 @@
   "wishes": [
     {
       "id": "wish_001",
-      "image": "/assets/wishcard/img.jpg",
+      "image": "https://images.unsplash.com/photo-1502224562085-639556652f33?q=80&w=600",
       "title": "Run a Marathon",
       "category": "fitness",
-      "description": "Complete my first full marathon.",
+      "description": "Complete my first full marathon and cross the finish line.",
       "achieved": false,
       "createdAt": "2026-06-02T10:00:00Z",
-
       "habits": [
         {
           "title": "Run 5 km",
@@ -45,16 +44,14 @@
         }
       ]
     },
-
     {
       "id": "wish_002",
-      "image": "/assets/wishcard/img.jpg",
+      "image": "https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?q=80&w=600",
       "title": "Visit Japan",
       "category": "travel",
-      "description": "Travel across Japan for 2 weeks.",
+      "description": "Travel across Japan for 2 weeks, from Tokyo neon lights to Kyoto temples.",
       "achieved": false,
       "createdAt": "2026-06-02T10:00:00Z",
-
       "habits": [
         {
           "title": "Study Japanese",
@@ -71,16 +68,209 @@
           "completed": false
         }
       ]
+    },
+    {
+      "id": "wish_003",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=600",
+      "title": "Build a SaaS Product",
+      "category": "tech",
+      "description": "Launch a full-stack software application that helps people solve a real-world problem.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Code feature component",
+          "frequency": "daily",
+          "timeObjective": 90,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Review GitHub roadmap",
+          "frequency": "weekly",
+          "timeObjective": 30,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_004",
+      "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?q=80&w=600",
+      "title": "Master the Handstand",
+      "category": "fitness",
+      "description": "Hold a solid, freestanding handstand for 30 seconds with perfect form.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Core & wrist mobility",
+          "frequency": "daily",
+          "timeObjective": 15,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Wall hold practice",
+          "frequency": "daily",
+          "timeObjective": 20,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_005",
+      "image": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?q=80&w=600",
+      "title": "Van Life Road Trip",
+      "category": "travel",
+      "description": "Explore the wild landscapes of Iceland or New Zealand in a fully converted campervan.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Research hidden routes",
+          "frequency": "weekly",
+          "timeObjective": 45,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Watch van DIY tutorials",
+          "frequency": "weekly",
+          "timeObjective": 60,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_006",
+      "image": "https://images.unsplash.com/photo-1516280440614-37939bbacd6a?q=80&w=600",
+      "title": "Perform Stand-up Comedy",
+      "category": "creativity",
+      "description": "Write a 5-minute sketch and perform it live on stage during an open mic night.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Write jokes & punchlines",
+          "frequency": "daily",
+          "timeObjective": 15,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Practice speech in front of mirror",
+          "frequency": "weekly",
+          "timeObjective": 40,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_007",
+      "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?q=80&w=600",
+      "title": "Deep Meditation Retreat",
+      "category": "mindset",
+      "description": "Attend a 3-day silent mindfulness retreat to reconnect with inner peace.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Morning silent breathing",
+          "frequency": "daily",
+          "timeObjective": 15,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Digital detox night",
+          "frequency": "weekly",
+          "timeObjective": 180,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_008",
+      "image": "https://images.unsplash.com/photo-1552664730-d307ca884978?q=80&w=600",
+      "title": "Speak at a Tech Conference",
+      "category": "tech",
+      "description": "Give a presentation about modern front-end engineering in front of an audience of developers.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Read tech articles",
+          "frequency": "daily",
+          "timeObjective": 30,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Build dynamic slide decks",
+          "frequency": "weekly",
+          "timeObjective": 90,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_009",
+      "image": "https://images.unsplash.com/photo-1520607162513-77705c0f0d4a?q=80&w=600",
+      "title": "Create a Cozy Desk Setup",
+      "category": "lifestyle",
+      "description": "Design the ultimate home office with ergonomic furniture, smart lighting, and plants.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Tidy up & declutter workspace",
+          "frequency": "daily",
+          "timeObjective": 10,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Compare tech gear & prices",
+          "frequency": "weekly",
+          "timeObjective": 45,
+          "streak": 0,
+          "completed": false
+        }
+      ]
+    },
+    {
+      "id": "wish_010",
+      "image": "https://images.unsplash.com/photo-1515003197210-e0cd71810b5f?q=80&w=600",
+      "title": "Cook a Gastronomic Meal",
+      "category": "creativity",
+      "description": "Prepare a 3-course fine dining menu from scratch for friends and family.",
+      "achieved": false,
+      "createdAt": "2026-06-11T12:00:00Z",
+      "habits": [
+        {
+          "title": "Practice knife cutting skills",
+          "frequency": "daily",
+          "timeObjective": 15,
+          "streak": 0,
+          "completed": false
+        },
+        {
+          "title": "Test complex baking recipes",
+          "frequency": "weekly",
+          "timeObjective": 150,
+          "streak": 0,
+          "completed": false
+        }
+      ]
     }
   ],
 
-  "template": [
-    {
-      "title": "Morning Routine",
-      "category": "productivity",
-      "description": "A simple productivity template."
-    }
-  ],
 
   "comments":[]
 }
