@@ -273,7 +273,8 @@
 
   "templates":[
     
-    { "id": 1, title: "Visit Japan", 
+    { "id": 1, 
+    "title": "Visit Japan", 
     "category": "Travel", 
     "description": "Experience Tokyo, Kyoto temples, and cherry blossom season.", 
     "achieved": false, 
@@ -311,9 +312,9 @@
         "title": "Jog for 20 minutes",
         "frequency": "weekly",
         "streak": 8,
-        "completed": false,
-      },
-    ],
+        "completed": false
+      }
+    ]
   },
 
   {
@@ -328,9 +329,9 @@
         "title": "Drink water after waking up",
         "frequency": "daily",
         "streak": 15,
-        "completed": true,
-      },
-    ],
+        "completed": true
+      }
+    ]
   },
 
   {
@@ -345,9 +346,9 @@
         "title": "Apply to 3 jobs",
         "frequency": "weekly",
         "streak": 6,
-        "completed": false,
-      },
-    ],
+        "completed": false
+      }
+    ]
   },
 
   {
@@ -362,9 +363,9 @@
         "title": "Code for 30 minutes",
         "frequency": "daily",
         "streak": 21,
-        "completed": true,
-      },
-    ],
+        "completed": true
+      }
+    ]
   },
 
   {
@@ -379,9 +380,9 @@
         "title": "Track expenses",
         "frequency": "daily",
         "streak": 18,
-        "completed": true,
-      },
-    ],
+        "completed": true
+      }
+    ]
   },
 
   {
@@ -396,9 +397,9 @@
         "title": "Read for 20 minutes",
         "frequency": "daily",
         "streak": 10,
-        "completed": false,
-      },
-    ],
+        "completed": false
+      }
+    ]
   },
 
   {
@@ -413,9 +414,9 @@
         "title": "Journal before bed",
         "frequency": "daily",
         "streak": 30,
-        "completed": true,
-      },
-    ],
+        "completed": true
+      }
+    ]
   },
 
   {
@@ -430,9 +431,9 @@
         "title": "Practice vocabulary for 15 minutes",
         "frequency": "daily",
         "streak": 14,
-        "completed": false,
-      },
-    ],
+        "completed": false
+      }
+    ]
   },
 
 {
@@ -449,9 +450,9 @@
     }
   ]
 }
-];
+],
 
 
-  "comments":[]
+"comments":[]
 }
 
