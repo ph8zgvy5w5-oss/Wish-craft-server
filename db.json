@@ -271,6 +271,42 @@
     }
   ],
 
+  "templates":[
+    
+    { id: 1, title: "Visit Japan", category: "Travel", description: "Experience Tokyo, Kyoto temples, and cherry blossom season.", achieved: false, createdAt: "2026-06-01", habits: [ { title: "Save €50 weekly", frequency: "weekly", streak: 4, completed: false } ] 
+},  
+
+{ id: 2, title: "Take a Solo Trip to Italy", category: "Travel", description: "Explore Rome, Florence, and enjoy authentic Italian food.", achieved: false, createdAt: "2026-06-02", habits: [ { title: "Learn Italian basics", frequency: "daily", streak: 12, completed: true } ] 
+},  
+
+{ id: 3, title: "Run a 5K", category: "Fitness", description: "Build stamina and complete my first 5km run.", achieved: false, createdAt: "2026-05-20", habits: [ { title: "Jog for 20 minutes", frequency: "weekly", streak: 8, completed: false } ] 
+},  
+
+{ id: 4, title: "Build a Healthy Morning Routine", category: "Wellness", description: "Wake up energized and start the day with intention.", achieved: false, createdAt: "2026-05-25", habits: [ { title: "Drink water after waking up", frequency: "daily", streak: 15, completed: true } ] 
+}, 
+
+{ id: 5, title: "Land My Dream Job", category: "Career", description: "Secure a job in tech, business, or digital marketing.", achieved: false, createdAt: "2026-05-30", habits: [ { title: "Apply to 3 jobs", frequency: "weekly", streak: 6, completed: false } ] 
+},  
+
+{ id: 6, title: "Become a Better Coder", category: "Learning", description: "Improve JavaScript and React skills through projects.", achieved: false, createdAt: "2026-06-01", habits: [ { title: "Code for 30 minutes", frequency: "daily", streak: 21, completed: true } ] 
+},  
+
+{ id: 7, title: "Save €5,000", category: "Finance", description: "Build a strong emergency and travel fund.", achieved: false, createdAt: "2026-05-10", habits: [ { title: "Track expenses", frequency: "daily", streak: 18, completed: true } ] 
+},  
+
+{ id: 8, title: "Read 20 Books This Year", category: "Personal Growth", description: "Build a stronger reading habit and learn more.", achieved: false, createdAt: "2026-06-03", habits: [ { title: "Read for 20 minutes", frequency: "daily", streak: 10, completed: false } ] 
+},  
+
+{ id: 9, title: "Start Journaling Consistently", category: "Mindfulness", description: "Reflect daily and track personal growth.", achieved: true, createdAt: "2026-04-15", habits: [ { title: "Journal before bed", frequency: "daily", streak: 30, completed: true } ] 
+},  
+
+{ id: 10, title: "Learn a New Language", category: "Learning", description: "Become conversational in Spanish or another language.", achieved: false, createdAt: "2026-05-18", habits: [ { title: "Practice vocabulary for 15 minutes", frequency: "daily", streak: 14, completed: false } ] 
+}, 
+
+{ id: 11, title: "Build My Dream Physique", category: "Fitness", description: "Stay disciplined and improve overall health.", achieved: false, habits: [ { title: "Meal prep", frequency: "weekly", streak: 2 } ] 
+};
+  ]
+
 
   "comments":[]
 }
